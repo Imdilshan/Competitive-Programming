@@ -1,2 +1,1 @@
-# Competitive-Programming
-Templates of Competitive Programming
+Templates of C++ Algorithms For Competitive Programming
